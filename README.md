@@ -4,7 +4,7 @@
 
 ## MONSTER packages for Python
 
-Includes more than **700**💥 packages
+Includes more than **300**💥 packages
 
 ## Requirements
 
